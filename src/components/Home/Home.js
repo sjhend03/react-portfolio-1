@@ -3,7 +3,13 @@ import './Home.css'
 export const Home = () => {
     return (
         <body>
-            <h1>hello world</h1>
+            <header>
+                <h1>Hi, I'm Steven Henderson</h1>
+                <h3>Full Stack Developer</h3>
+            </header>
+            <main>
+                <button>Contact me!</button>
+            </main>
         </body>
     )
 }

@@ -1,5 +1,6 @@
 import './AboutContainer.css'
+import { About } from '../../components/About/About'
 
 export const AboutContainer = () => {
-    return <h1>About</h1>
+    return <About />
 }

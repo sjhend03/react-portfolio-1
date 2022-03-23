@@ -1,5 +1,6 @@
 import './WorkContainer.css'
+import { Work } from '../../components/Work/Work'
 
 export const WorkContainer = () => {
-    return <h1>Work</h1>
+    return <Work />
 }

@@ -1,5 +1,6 @@
 import './SkillsContainer.css'
+import { Skills } from '../../components/Skills/Skills'
 
 export const SkillsContainer = () => {
-    return <h1>Skills</h1>
+    return <Skills />
 }

@@ -1,5 +1,6 @@
 import './BlogContainer.css'
+import { Blog } from '../../components/Blog/Blog'
 
 export const BlogContainer = () => {
-    return <h1>Blog</h1>
+    return <Blog />
 }
