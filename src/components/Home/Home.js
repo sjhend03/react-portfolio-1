@@ -2,7 +2,7 @@ import './Home.css'
 
 export const Home = () => {
     return (
-        <body>
+        <div className='home'>
             <header>
                 <h1>Hi, I'm Steven Henderson</h1>
                 <h3>Full Stack Developer</h3>
@@ -10,6 +10,6 @@ export const Home = () => {
             <main>
                 <button>Contact me!</button>
             </main>
-        </body>
+        </div>
     )
 }

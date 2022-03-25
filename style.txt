@@ -1,0 +1,29 @@
+Colors:
+/* Color Theme Swatches in Hex */
+.UI/UX-1-hex { color: #022873; } blue
+.UI/UX-2-hex { color: #F2EBDC; } offwhite
+.UI/UX-3-hex { color: #D99771; } light orange
+.UI/UX-4-hex { color: #BF7256; } orange
+.UI/UX-5-hex { color: #734136; } brown
+
+/* Color Theme Swatches in RGBA */
+.UI/UX-1-rgba { color: rgba(2, 39, 114, 1); }
+.UI/UX-2-rgba { color: rgba(242, 234, 220, 1); }
+.UI/UX-3-rgba { color: rgba(216, 150, 112, 1); }
+.UI/UX-4-rgba { color: rgba(191, 114, 86, 1); }
+.UI/UX-5-rgba { color: rgba(114, 65, 53, 1); }
+
+/* Color Theme Swatches in HSLA */
+.UI/UX-1-hsla { color: hsla(219, 96, 22, 1); }
+.UI/UX-2-hsla { color: hsla(39, 46, 90, 1); }
+.UI/UX-3-hsla { color: hsla(22, 57, 64, 1); }
+.UI/UX-4-hsla { color: hsla(16, 45, 54, 1); }
+.UI/UX-5-hsla { color: hsla(11, 36, 33, 1); }
+
+font :
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Serif:ital,wght@0,300;0,400;0,700;1,200;1,400;1,600&display=swap');
+</style>
+
+font-family: 'Bebas Neue', cursive;
+font-family: 'IBM Plex Serif', serif;

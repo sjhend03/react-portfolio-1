@@ -1,0 +1,10 @@
+.contact {
+    background-color: #F2EBDC;
+    padding: 20px 20px;
+    margin: 20px 12.5%;
+}
+
+.contact main form{
+    display: flex;
+    flex-direction: column;
+}
